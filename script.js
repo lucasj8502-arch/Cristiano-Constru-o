@@ -40,13 +40,13 @@ const iniciarContadores = () => {
 
             } else {
 
-                if(target === 15){
+                if(target === 20){
 
-                    counter.innerText = "15+";
+                    counter.innerText = "20+";
 
-                }else if(target === 150){
+                }else if(target === 350){
 
-                    counter.innerText = "150+";
+                    counter.innerText = "350+";
 
                 }else{
 
